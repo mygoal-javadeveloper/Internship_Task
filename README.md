@@ -11,3 +11,5 @@ How to convert gmail content to mbox for the dataset please refer [this link](<h
 This will create data.mbox but since I have downloaded only inbox content thus my filename is Inbox.mbox
 
 Other details are mentioned in the text cell of the Notebook
+
+A few outputs of the code cell execution are deleted for security reason
