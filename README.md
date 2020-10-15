@@ -23,9 +23,9 @@ A few outputs of the code cell execution are deleted for security reason
   
   ![image for step 3 and 4](<https://github.com/mygoal-javadeveloper/Internship_Task/blob/main/mbox1.png>)
   
-  To get only Gmail data click `Deselect all`, then scroll down to Mail and select the checkbox there.
+  To get only Gmail data scroll down to `CREATE A NEW EXPORT` and in that click `Deselect all`, then scroll down to Mail and select the checkbox there.
   
-  ![alt](<https://spinbackup.com/blog/wp-content/uploads/2019/04/image-002.jpg>)
+  ![alt](<https://github.com/mygoal-javadeveloper/Internship_Task/blob/main/mbox2.png>)
   
   By default it is `MBOX format` that is supported for exporting Gmail. Also by default `All Mail data included` is selected. You can click on this box and select the required folders (Drafts, Inbox, Junk E-mail, sent, etc). I have selected only Inbox for my this task.
   
