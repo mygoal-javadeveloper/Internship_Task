@@ -29,7 +29,7 @@ A few outputs of the code cell execution are deleted for security reason
   
   By default it is `MBOX format` that is supported for exporting Gmail. Also by default `All Mail data included` is selected. You can click on this box and select the required folders (Drafts, Inbox, Junk E-mail, sent, etc). I have selected only Inbox for my this task
   
-  ![alt](<https://spinbackup.com/blog/wp-content/uploads/2019/04/image-004.jpg>)
+  ![alt](<https://github.com/mygoal-javadeveloper/Internship_Task/blob/main/mbox3.jpg>)
 
 Then scroll down to the bottom of the page and click `Next Step`
 
