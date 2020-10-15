@@ -23,15 +23,15 @@ A few outputs of the code cell execution are deleted for security reason
   
   ![image for step 3 and 4](<https://github.com/mygoal-javadeveloper/Internship_Task/blob/main/mbox1.png>)
   
-  To get only Gmail data scroll down to `CREATE A NEW EXPORT` and in that click `Deselect all`, then scroll down to Mail and select the checkbox there.
+  To get only Gmail data scroll down to `CREATE A NEW EXPORT` and in that click `Deselect all`, then scroll down to Mail and select the checkbox there
   
   ![alt](<https://github.com/mygoal-javadeveloper/Internship_Task/blob/main/mbox2.png>)
   
-  By default it is `MBOX format` that is supported for exporting Gmail. Also by default `All Mail data included` is selected. You can click on this box and select the required folders (Drafts, Inbox, Junk E-mail, sent, etc). I have selected only Inbox for my this task.
+  By default it is `MBOX format` that is supported for exporting Gmail. Also by default `All Mail data included` is selected. You can click on this box and select the required folders (Drafts, Inbox, Junk E-mail, sent, etc). I have selected only Inbox for my this task
   
   ![alt](<https://spinbackup.com/blog/wp-content/uploads/2019/04/image-004.jpg>)
 
-Then scroll down to the bottom of the page and click `Next Step`.
+Then scroll down to the bottom of the page and click `Next Step`
 
 ![alt](<https://spinbackup.com/blog/wp-content/uploads/2019/04/image-006.jpg>)
 
@@ -39,4 +39,6 @@ Then click on `Create archive`, the mbox will be archive in a .zip file for down
 
 ![alt](<https://spinbackup.com/blog/wp-content/uploads/2019/04/image-008.jpg>)
 
+Then Archive progress begins
 
+Once the archive is completed, it will be avalable for download.
