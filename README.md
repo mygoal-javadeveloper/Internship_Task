@@ -39,7 +39,7 @@ Then click on `Create archive`, the mbox will be archive in a .zip file for down
 
 ![alt](<https://spinbackup.com/blog/wp-content/uploads/2019/04/image-008.jpg>)
 
-Then Archive progress begins
+Then Archive process begins
 
 Once the archive is completed, it will be avalable for download
 
