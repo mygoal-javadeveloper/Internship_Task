@@ -47,7 +47,7 @@ Then unzip the downloaded archive and in that you will find Inbox.mbox or data.i
 
 For **Google Colab**:
 
-On left side you will find a folder click on it and the left-side panel will expand, in that click on upload and upload the mbox file.
+On left side you will find a folder icon click on it and the left-side panel will expand, in that click on upload and upload the mbox file.
 
 For **Jupyter**:
 
