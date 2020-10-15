@@ -6,7 +6,7 @@ ML_Internship_Task1.ipynb
 
 Important:
 
-How to convert gmail content to mbox for the dataset please refer [this link](<https://spinbackup.com/blog/how-to-import-mbox-to-gmail/>)
+How to convert gmail content to mbox for the dataset please follow the instructions given below
 
 This will create data.mbox but since I have downloaded only inbox content thus my filename is Inbox.mbox
 
@@ -21,7 +21,7 @@ A few outputs of the code cell execution are deleted for security reason
   3. On left side you will find `Data & personalization menu`, click on it
   4. Then on right side scroll down and you will get `Download, delete, or make a plan for your data` in that you will find `Download your data`, click on it
   
-  ![image for step 3 and 4](<https://spinbackup.com/blog/wp-content/uploads/2019/04/image-000-1024x431.jpg>)
+  ![image for step 3 and 4](<https://github.com/mygoal-javadeveloper/Internship_Task/blob/main/mbox1.png>)
   
   To get only Gmail data click `Deselect all`, then scroll down to Mail and select the checkbox there.
   
