@@ -41,4 +41,14 @@ Then click on `Create archive`, the mbox will be archive in a .zip file for down
 
 Then Archive progress begins
 
-Once the archive is completed, it will be avalable for download.
+Once the archive is completed, it will be avalable for download
+
+Then unzip the downloaded archive and in that you will find Inbox.mbox or data.inbox according to the option selected
+
+For **Google Colab**:
+
+On left side you will find a folder click on it and the left-side panel will expand, in that click on upload and upload the mbox file.
+
+For **Jupyter**:
+
+Place the mbox file in the same folder where the Notebook is there.
